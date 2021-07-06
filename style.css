@@ -5,7 +5,8 @@ h1{
 }
 h3{
     font-size: 30px;
-    padding-top: 50px;
+    padding-top: 20px;
+    margin-top:15%;
 }
 .orange-color{
     color:orange;
@@ -13,7 +14,9 @@ h3{
 .text-center{
     text-align:center;
     width:500px;
-    padding-top:0px;
+    padding-bottom:0%;
+    text-decoration: none;
+    padding-left: 30%;
             }
 body{
     font-family: 'Poppins', sans-serif;
@@ -26,7 +29,7 @@ body{
 .half-width img{
     width:80%;
     padding-top: 20px;
-    padding-left: 30px;
+    padding-left: 0px;
            }
 .bg-cover{
     background-image: url(images/shapes/bg-cover.png);
@@ -35,11 +38,11 @@ body{
     position: relative;
 }
 .experience-item{
-    width: 35%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 75%;
+    margin-left: 2%;
+    margin-right: 2%;
     box-shadow: 10px 10px 40px gray;
-    padding-left: 25px;
+    padding-left: 15px;
     padding-right:5px;
     border-radius: 20px;
 }
@@ -56,3 +59,11 @@ body{
     font-weight:700px;
     border-radius:25px;
 }
+footer{
+    text-align: center;
+    padding-bottom:10px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+      }
