@@ -5,6 +5,7 @@ h1{
 }
 h3{
     font-size: 30px;
+    padding-top: 50px;
 }
 .orange-color{
     color:orange;
@@ -33,6 +34,16 @@ body{
     height: 500px;
     position: relative;
 }
+.experience-item{
+    width: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 25px;
+    padding-right:5px;
+    border-radius: 20px;
+}
+
 .flexible-container{
     display:flex;
     margin-bottom:150px;
