@@ -1,3 +1,8 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:o;
+}
 h1{
     font-size:50px;
     padding-left:8px;
@@ -18,10 +23,7 @@ h3{
     text-decoration: none;
     padding-left: 30%;
             }
-body{
-    font-family: 'Poppins', sans-serif;
-    margin:o;
-}
+
 .half-width{
     width:50%;
     padding-left:7%;
@@ -30,14 +32,20 @@ body{
     width:80%;
     padding-top: 20px;
     padding-left: 0px;
-           }
+}
 .bg-cover{
     background-image: url(images/shapes/bg-cover.png);
     background-repeat: no-repeat;
     height: 500px;
     position: relative;
 }
-.experience-item{
+.pink-girl{
+    padding-left: 90px;
+    padding-top: 50px;
+    width:450px ;
+    height:250px ;
+}
+.food-item{
     width: 75%;
     margin-left: 2%;
     margin-right: 2%;
